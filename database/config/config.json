@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "uhaadmin",
-    "password": "password@123",
+    "username": "auth",
+    "password": "password",
     "database": "auth",
-    "host": "127.0.0.1",
+    "host": "db",
     "dialect": "postgres",
     "port": 5432 
   },
@@ -11,8 +11,8 @@
     "username": "uhaadmin",
     "password": "password@123",
     "database": "auth",
-    "host": "127.0.0.1",
+    "host": "db",
     "dialect": "postgres",
-    "port": 5432 
+    "port": 5432
   }
 }
